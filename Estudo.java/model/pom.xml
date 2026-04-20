@@ -1,0 +1,5 @@
+DEPENDENCIES{
+    mysql-connector-java:8.0.33
+    junit-jupiter-api:5.9.2
+}
+    
